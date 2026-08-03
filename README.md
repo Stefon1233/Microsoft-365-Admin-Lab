@@ -1,1 +1,1 @@
-# Windows-Active-Directory-Home-Lab
+# Microsoft-365-Admin-Lab
