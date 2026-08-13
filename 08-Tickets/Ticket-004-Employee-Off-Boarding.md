@@ -64,12 +64,11 @@ Normal employee separation/off-boarding request.
 
 ### Screenshot(s)
 
-* Shared mailbox conversion
-* Mailbox delegation
-* Automatic reply configuration
-* License removal
-* Deleted/removed user
-* Failed former-user sign-in
+* <img width="1440" height="876" alt="Offboarding-Marcus-Reed-Account" src="https://github.com/user-attachments/assets/05e9faff-82f7-4714-9268-867d282d6247" />
+* <img width="1440" height="876" alt="Offboarding-Marcus-Reed-Licenses-Removed" src="https://github.com/user-attachments/assets/13350dfb-ad43-4023-969c-7501e92c7235" />
+* <img width="1440" height="876" alt="Offboarding-Marcus-Reed-Deleted-Users" src="https://github.com/user-attachments/assets/08f5ff5d-2388-41b3-9a08-340a368057bd" />
+* <img width="1440" height="876" alt="Offboarding-Marcus-Reed-Access-Denied" src="https://github.com/user-attachments/assets/06fdf641-490c-4f9e-8713-0528ba89b55f" />
+
 
 ### Lessons Learned
 
