@@ -69,11 +69,9 @@ Normal new-hire onboarding request.
 
 ### Screenshot(s)
 
-* `Ticket-Onboarding-User-Created.png`
-* `Ticket-Onboarding-License.png`
-* `Ticket-Onboarding-Profile.png`
-* `Ticket-Onboarding-Team-Membership.png`
-* `Ticket-Onboarding-Verification.png`
+* <img width="1440" height="876" alt="Onboarding-Markus-Reed-Account" src="https://github.com/user-attachments/assets/68e2e649-a2d3-45a3-8ebb-667c1802472f" />
+* <img width="1440" height="876" alt="Onboarding-Marcus-Reed-Signed-In" src="https://github.com/user-attachments/assets/42053fa5-4e53-44c9-8ac3-9509e605ba74" />
+* <img width="1440" height="876" alt="Onboarding-Marcus-Reed-Adding-Licenses" src="https://github.com/user-attachments/assets/02a8f47f-0c2e-4779-9359-ff72ddc0784e" />
 
 ### Lessons Learned
 
