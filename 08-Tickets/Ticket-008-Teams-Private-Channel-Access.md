@@ -56,7 +56,7 @@ The user was a member of the parent Team but was not separately assigned members
 
 ### Screenshot(s)
 
-`Ticket-Teams-Channel-Access.png`
+<img width="1440" height="876" alt="Non-Hr-Member-SharePoint-Access-Denied" src="https://github.com/user-attachments/assets/7e84bbce-142e-4bbb-a503-b6c2941898ee" />
 
 ### Lessons Learned
 
