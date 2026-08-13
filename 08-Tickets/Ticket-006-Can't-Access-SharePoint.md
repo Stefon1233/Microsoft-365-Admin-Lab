@@ -54,6 +54,9 @@ The user was missing the required SharePoint site permissions.
 
 ### Screenshot(s)
 
+* <img width="1440" height="876" alt="Non-Hr-Member-SharePoint-Access-Denied" src="https://github.com/user-attachments/assets/c3b37c65-4515-4619-8cfe-b8f3e3dcf1f3" />
+* <img width="1440" height="876" alt="HR-Department-Site-Permissions" src="https://github.com/user-attachments/assets/4d16ae23-4e0d-4296-8e80-56c578984665" />
+* <img width="1440" height="876" alt="Hr-Member-SharePoint-Access" src="https://github.com/user-attachments/assets/1e8ef758-e6c4-4fd5-9103-2cb33cefaba4" />
 
 
 ### Lessons Learned
