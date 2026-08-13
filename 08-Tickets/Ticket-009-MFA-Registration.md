@@ -57,7 +57,6 @@ The account required initial MFA/authentication-method registration.
 ### Screenshot(s)
 
 * <img width="1440" height="876" alt="03-MFA-Successful-Sign-In" src="https://github.com/user-attachments/assets/d80c5cd1-3877-4dfc-ad8a-55a251dcc099" />
-* <img width="1170" height="2532" alt="02-MFA-Sign-In-Prompt-IPhone" src="https://github.com/user-attachments/assets/86ddde12-c833-410c-ad62-c98edecde228" />
 * <img width="1440" height="876" alt="01-MFA-Sign-In-Prompt-Mac" src="https://github.com/user-attachments/assets/3bc49345-a703-4b2b-a150-3c8f4c813245" />
 
 
