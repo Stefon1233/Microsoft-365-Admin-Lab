@@ -60,10 +60,11 @@ The required Microsoft 365 license was not assigned to the user.
 
 ### Screenshot(s)
 
-* User without license
-* License assignment screen
-* Business Basic assigned
-* Restored user services
+* <img width="1440" height="876" alt="License-Removed-Test" src="https://github.com/user-attachments/assets/48511a20-d223-40b4-b8c0-fb01d2e8e551" />
+* <img width="1440" height="876" alt="Pre-Adding-Licenses" src="https://github.com/user-attachments/assets/8c77cb38-b38d-47e9-8892-1afe0f5d6dd8" />
+* <img width="1440" height="876" alt="Post-Adding-Licenses" src="https://github.com/user-attachments/assets/73550073-be7b-407c-a1ee-890a74669208" />
+
+
 
 ### Lessons Learned
 
