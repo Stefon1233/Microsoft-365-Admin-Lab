@@ -64,10 +64,9 @@ The user's existing credentials were no longer allowing successful authenticatio
 
 <img width="1440" height="876" alt="New-User-Updated-Password-Unknown" src="https://github.com/user-attachments/assets/93fbff38-c8b7-427e-bfcc-1382961cbd18" />
 
-<img width="1440" height="788" alt="New-User-Update-Password-Upon-Signing-In" src="https://github.com/user-attachments/assets/dc73eae1-bbdd-4feb-8ebb-e9ed40c509f9" />
-
 <img width="1440" height="876" alt="Password-Has-Been-Reset" src="https://github.com/user-attachments/assets/e57f4e7c-1075-4256-bbd7-98749121966a" />
 
+<img width="1440" height="788" alt="New-User-Update-Password-Upon-Signing-In" src="https://github.com/user-attachments/assets/dc73eae1-bbdd-4feb-8ebb-e9ed40c509f9" />
 
 ## Lessons Learned
 Practiced securely resetting Microsoft 365 credentials, requiring a password change, and verifying that access was restored.
