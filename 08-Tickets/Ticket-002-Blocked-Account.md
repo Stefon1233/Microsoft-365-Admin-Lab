@@ -60,10 +60,10 @@ The user's account had sign-in disabled.
 
 ### Screenshot(s)
 
-* Blocked sign-in setting
-* Failed authentication
-* Restored sign-in setting
-* Successful authentication
+* <img width="1440" height="876" alt="User-Sign-In-Locked" src="https://github.com/user-attachments/assets/8fd14838-2ff5-404c-a5f9-692f5e426873" />
+* <img width="1440" height="876" alt="User-Details-Sign-In-Blocked" src="https://github.com/user-attachments/assets/31bf395b-a33f-458a-b74e-1a3f544e84d9" />
+* <img width="1440" height="876" alt="Unblock-User" src="https://github.com/user-attachments/assets/0add9a01-8f9e-4e80-a470-5a5edcc6db4c" />
+* <img width="1440" height="876" alt="User-Sign-In-Post-Restoration-Success" src="https://github.com/user-attachments/assets/abb27334-721b-49ca-b550-934eaafde7c6" />
 
 ### Lessons Learned
 
