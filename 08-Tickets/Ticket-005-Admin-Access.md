@@ -59,11 +59,10 @@ The user's normal account did not have the administrative role required for the 
 
 ### Screenshot(s)
 
-* Role before assignment
-* User Administrator assignment
-* Successful administrative access
-* Role removal
-* Verification after removal
+* <img width="1440" height="876" alt="User-Details-Pre-Promotion" src="https://github.com/user-attachments/assets/8c3fd1d1-6b5a-43ef-b5fa-d9478d038322" />
+* <img width="1440" height="876" alt="Manage-Admin-Roles" src="https://github.com/user-attachments/assets/e9329d72-adec-4202-813d-0709e1c56e30" />
+* <img width="1440" height="876" alt="Admin-Roles-Updated" src="https://github.com/user-attachments/assets/d2297947-c43a-4dfc-aa26-a522a4bd8924" />
+* <img width="1440" height="876" alt="User-Details-Pre-Promotion" src="https://github.com/user-attachments/assets/2fadd61d-b496-42af-839a-6770a2fdfc1e" />
 
 ### Lessons Learned
 
