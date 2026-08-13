@@ -54,7 +54,8 @@ Accidental user deletion.
 
 ### Screenshot(s)
 
-`Ticket-OneDrive-Restore.png`
+* <img width="1440" height="876" alt="OneDrive-Recycle-Bin" src="https://github.com/user-attachments/assets/04150e92-c988-4b05-8517-d95cd92c4f72" />
+* <img width="1440" height="876" alt="OneDrive-File-Restored" src="https://github.com/user-attachments/assets/ff625844-0c61-42de-a5fd-bb210365e0fa" />
 
 ### Lessons Learned
 
