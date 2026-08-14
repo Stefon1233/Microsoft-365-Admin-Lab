@@ -62,7 +62,11 @@ The user's existing credentials were no longer allowing successful authenticatio
 
 ### Screenshot(s)
 
-/Users/stefon/Desktop/GitHub Portfolio/Microsoft 365 Administration Lab/Screenshots/02-Tasks:Member-Configuration/Reset-Password/New-User-Updated-Password-Unknown.png
+* <img width="1440" height="876" alt="New-User-Updated-Password-Unknown" src="https://github.com/user-attachments/assets/48da6dfd-73a7-4b96-90cc-1f732847d8fe" />
+* <img width="1440" height="876" alt="Reset-Password-Automatically-Selected" src="https://github.com/user-attachments/assets/38cfba15-55c4-4a3a-94e9-1b0f8ee25b5a" />
+* <img width="1440" height="876" alt="Password-Has-Been-Reset" src="https://github.com/user-attachments/assets/852a41c7-247e-4783-9cff-b3674209ddac" />
+* <img width="1440" height="788" alt="New-User-Update-Password-Upon-Signing-In" src="https://github.com/user-attachments/assets/ce982896-47c1-40ab-bcc3-6a06f7222451" />
+
 
 ### Lessons Learned
 Practiced securely resetting Microsoft 365 credentials, requiring a password change, and verifying that access was restored.
